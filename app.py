@@ -9,7 +9,7 @@ from google import genai
 from pypdf import PdfReader
 
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 MAX_TEXT_CHARS = 50000
 
 
